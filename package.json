@@ -8,7 +8,7 @@
         "url": "https://github.com/magicismight/react-native-root-modal"
     },
     "dependencies": {
-        "react-native-root-siblings": "^1.1.0"
+        "react-native-root-siblings": "https://github.com/ming436534/react-native-root-siblings.git#8feb8aa8b13cb69d427df535f2d5bded40ff853e"
     },
     "main": "./lib/Modal.js",
     "keywords": [
